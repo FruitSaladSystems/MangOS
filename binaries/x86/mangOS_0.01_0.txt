@@ -1,5 +1,0 @@
-This is a simple text file designed to show the format of binary names.
-
-The format is:
-
-mangOS_VERSION_BUILD#.iso or .img
